@@ -1,2 +1,13 @@
 
-font-family: 'Italianno', cursive;
+
+body {
+    background-image: url("Screen\ Shot\ 2023-03-03\ at\ 10.37.38\ AM.png");
+    font-family: 'Rubik Vinyl', cursive;
+    font-weight: 600px;
+    margin: auto;
+    width: 100%;
+}
+
+    main {
+        background-color: lightskyblue
+    }
