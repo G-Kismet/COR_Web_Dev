@@ -8,6 +8,18 @@ body {
     width: 100%;
 }
 
-    main {
+    main, header {
         background-color: lightskyblue
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .long-term {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    }
+
+    .short-term{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     }
